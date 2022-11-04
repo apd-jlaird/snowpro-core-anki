@@ -1,6 +1,6 @@
 # SnowPro Core Flashcards
-- This repository contains 414 flashcards suitable for anyone studying towards the SnowPro Core exam.
-- Cards were created in 2021/22 and may not cover the full scope of the exam.
+- This repository contains 414 flashcards suitable for anyone studying towards the SnowPro Core exam
+- Cards were created in 2021/22 and may not cover the full scope of the exam
 - Be sure to check the latest exam guide at https://www.snowflake.com/certifications/
 
 ## Index
