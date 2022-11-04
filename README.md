@@ -19,6 +19,6 @@ Virtual Warehouses | 24 flashcards
 
 ## Example Flashcards
 ### Question
-[[/images/example-question.jpg|Example flashcard showing question]]
+![Example flashcard showing question](/images/example-question.jpg "Example flashcard showing question")
 ### Answer
-[[/images/example-answer.jpg|Example flashcard showing answer]]
+![Example flashcard showing answer](/images/example-answer.jpg "Example flashcard showing answer")
